@@ -1,6 +1,10 @@
 {
-    "require": {
-        "monolog/monolog": "^1.24",
-        "smalot/pdfparser": "^0.14.0"
-    }
+  "name": "wordpress-plugins/searchwp",
+  "description": "Instantly improve your site search without writing a line of code!",
+  "type": "wordpress-plugin",
+  "license": "Copyright SearchWP, LLC",
+  "require": {
+      "monolog/monolog": "^1.24",
+      "smalot/pdfparser": "^0.14.0"
+  }
 }
